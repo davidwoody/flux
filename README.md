@@ -4,7 +4,7 @@
 
 ### API
 
-After installing `reactive-flux-store` you can:
+After installing this package you can:
 
 1) Create a `Store`.
 
